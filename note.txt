@@ -1,0 +1,3 @@
+to install the expo cli = npm init -g expo-cli
+to create the projet = expo init firstProject
+to run the project = npm start
